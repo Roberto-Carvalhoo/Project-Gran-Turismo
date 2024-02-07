@@ -1,0 +1,41 @@
+
+* {
+    color: #fff;
+   
+}
+
+.cabecalho {
+    display: flex;
+    position: relative; 
+   
+}
+
+.cabecalho .imagem__fundo {
+    width: 100%;
+    object-fit: cover;
+    background-attachment: scroll;
+}
+
+.cabecalho .home {
+    display: flex;
+    margin: 2px 10px  ;
+   
+    position: absolute;
+}
+
+.cabecalho .logo{
+    
+    display: flex;
+    align-items: center;
+    
+}
+
+.cabecalho .menu {
+
+    display: flex;
+    
+    margin: 120px;
+    position: absolute;
+    
+}
+

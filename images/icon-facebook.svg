@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="contents/footer2-dark" transform="translate(-110.000000, -275.000000)">
+            <g id="Group-14" transform="translate(40.000000, 277.000000)">
+                <g id="Group-12" transform="translate(72.000000, 0.000000)">
+                    <g id="Group-45" transform="translate(11.000000, 8.000000)" fill="#FFFFFF">
+                        <path d="M1.48837209,12 L3.72093023,12 L3.72093023,6 L5.74418605,6 L5.95348837,3.9375 L3.72093023,3.9375 L3.72093023,2.90625 C3.72093023,2.593749 3.76744186,2.375001 3.86046512,2.25 C3.95348837,2.124999 4.17829209,2.0625 4.53488372,2.0625 L5.95348837,2.0625 L5.95348837,0 L3.90697674,0 C2.97673972,0 2.34108726,0.222654 2,0.667968 C1.65891274,1.1132835 1.48837209,1.796871 1.48837209,2.71875 L1.48837209,3.9375 L0,3.9375 L0,6 L1.48837209,6 L1.48837209,12 Z" id="Page-1"></path>
+                    </g>
+                    <circle id="Oval-3" stroke="#FFFFFF" opacity="0.560000002" cx="14" cy="14" r="14"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

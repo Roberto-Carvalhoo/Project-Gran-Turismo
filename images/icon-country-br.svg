@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-country-br</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="10.5" cy="7.5" r="3.5"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="locale" transform="translate(-991.000000, -510.000000)">
+            <g id="BR" transform="translate(991.000000, 510.000000)">
+                <rect id="Mask" fill="#FFFFFF" x="0" y="0" width="21" height="15"></rect>
+                <rect id="Mask-Copy" fill="#009B3A" x="0" y="0" width="21" height="15"></rect>
+                <path d="M2.55770874,7.86087036 C2.24969471,7.66156716 2.24522161,7.34132719 2.55770874,7.13912964 L9.94229126,2.36087036 C10.2503053,2.16156716 10.7452216,2.15867281 11.0577087,2.36087036 L18.4422913,7.13912964 C18.7503053,7.33843284 18.7547784,7.65867281 18.4422913,7.86087036 L11.0577087,12.6391296 C10.7496947,12.8384328 10.2547784,12.8413272 9.94229126,12.6391296 L2.55770874,7.86087036 Z" id="Rectangle-60" fill="#FEDF02"></path>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#002776" xlink:href="#path-1"></use>
+                <path d="M6.5,7 C7,6.50000002 8.80761719,6.73388676 10.5,7.00000001 C12.1923828,7.26611325 14.0060917,8.00609174 14.5,8.5" id="Line" stroke="#FFFFFF" stroke-width="1.33333333" stroke-linecap="square" mask="url(#mask-2)" transform="translate(10.500000, 7.603148) rotate(6.000000) translate(-10.500000, -7.603148) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
