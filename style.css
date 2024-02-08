@@ -5,37 +5,57 @@
 }
 
 .cabecalho {
+    background-size: cover;
+    height: 400px;
+  }
+
+.cabecalho .container {
     display: flex;
-    position: relative; 
-   
-}
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
 
-.cabecalho .imagem__fundo {
+  .cabecalho .imagem__fundo {
+    position: absolute;
+    top: 0;
+    left: 0;
     width: 100%;
+    height: 100%;
+    z-index: -1;
     object-fit: cover;
-    background-attachment: scroll;
-}
+  }
 
-.cabecalho .home {
+.cabecalho .home  {
     display: flex;
     margin: 2px 10px  ;
-   
     position: absolute;
 }
 
 .cabecalho .logo{
-    
     display: flex;
-    align-items: center;
-    
+    padding-left: 25px;
 }
 
 .cabecalho .menu {
-
     display: flex;
-    
-    margin: 120px;
-    position: absolute;
-    
-}
+    margin-right: 100px;
+    padding-top: 60px;
+  }
+
+  .cabecalho .menu ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+  }
+  .cabecalho .menu ul li {
+    padding: 0 10px;
+  }
+  .cabecalho .minha__pagina {
+    display: flex;
+    align-items: center;
+    padding-right: 25px;
+  }
 
